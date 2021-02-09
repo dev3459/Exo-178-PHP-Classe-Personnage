@@ -6,7 +6,7 @@ $perso = new personnage();
 
 echo $perso->getNom();
 
-echo"<br><br>";
+echo "<br><br>";
 
 
 
